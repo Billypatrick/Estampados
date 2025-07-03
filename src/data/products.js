@@ -22,7 +22,7 @@ const products = [
       price: '350.00',
       sizes: ['S', 'M', 'L', 'XL'],
       image: '/images/polo-gato-cosmico.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 2,
@@ -31,7 +31,7 @@ const products = [
       price: '320.00',
       sizes: ['S', 'M', 'L'],
       image: '/images/cactus-rebelde.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 3,
@@ -40,7 +40,7 @@ const products = [
       price: '380.00',
       sizes: ['M', 'L', 'XL'],
       image: '/images/taco-power.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 4,
@@ -49,7 +49,7 @@ const products = [
       price: '360.00',
       sizes: ['S', 'M'],
       image: '/images/ajolote-kawaii.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 5,
@@ -58,7 +58,7 @@ const products = [
       price: '390.00',
       sizes: ['L', 'XL'],
       image: '/images/lucha-libre.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 6,
@@ -67,7 +67,7 @@ const products = [
       price: '400.00',
       sizes: ['S', 'M', 'L', 'XL'],
       image: '/images/frida-kahlo-pop.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 7,
@@ -76,7 +76,7 @@ const products = [
       price: '370.00',
       sizes: ['M', 'L', 'XL'],
       image: '/images/soy-tu-padre.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 8,
@@ -85,7 +85,7 @@ const products = [
       price: '340.00',
       sizes: ['S', 'M', 'L'],
       image: '/images/perrito-feliz.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 9,
@@ -94,7 +94,7 @@ const products = [
       price: '450.00',
       sizes: ['S', 'M', 'L', 'XL'],
       image: '/images/tu-idea-aqui.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 10,
@@ -103,7 +103,7 @@ const products = [
       price: '360.00',
       sizes: ['M', 'L'],
       image: '/images/gamer-mode-on.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 11,
@@ -112,7 +112,7 @@ const products = [
       price: '330.00',
       sizes: ['S', 'M', 'L'],
       image: '/images/no-soy-mañanero.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
     {
       id: 12,
@@ -121,7 +121,7 @@ const products = [
       price: '480.00',
       sizes: ['S', 'M', 'L', 'XL'],
       image: '/images/diseño-a-tu-gusto.png',
-      category: 'Camisetas',
+      category: process.env.PUBLIC_URL + 'Camisetas',
     },
 ];
 
