@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Estampados/static/css/main.6bfdf3d3.css",
+    "main.js": "/Estampados/static/js/main.e5547470.js",
+    "index.html": "/Estampados/index.html",
+    "main.6bfdf3d3.css.map": "/Estampados/static/css/main.6bfdf3d3.css.map",
+    "main.e5547470.js.map": "/Estampados/static/js/main.e5547470.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bfdf3d3.css",
+    "static/js/main.e5547470.js"
+  ]
+}
